@@ -1,0 +1,7 @@
+{
+  "name": "Yatrasaarthi",
+  "description": "An intelligent travel companion featuring AI-powered trip planning, local exploration, and creative studio tools for editing travel memories.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
